@@ -57,8 +57,6 @@ Autonomous drone navigation system contributing to ISDC 2025 fourth-place finish
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrigaankMouli&show_icons=true&theme=github_dark"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrigaankMouli&theme=github-dark"/>
 
 </p>
