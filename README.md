@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ About Me
+##  About Me
 
 - Working on GPU-accelerated quadruped locomotion using PPO in NVIDIA Isaac Lab
 - Building reinforcement learning systems and autonomous intelligence pipelines
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/MrigaankMouli)
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 ### 🔹 [Multi-Terrain Quadruped Locomotion](https://github.com/MrigaankMouli/trakr_rl)
 
@@ -53,7 +53,7 @@ Autonomous drone navigation system contributing to ISDC 2025 fourth-place finish
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -62,15 +62,3 @@ Autonomous drone navigation system contributing to ISDC 2025 fourth-place finish
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrigaankMouli&theme=github-dark"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrigaankMouli&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-## 🎯 Current Focus
-
-Building autonomous agents, improving sim-to-real transfer pipelines, and making robots slightly less likely to choose chaos.
