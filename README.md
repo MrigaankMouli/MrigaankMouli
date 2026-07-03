@@ -4,10 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mrigaank%20Mouli&fontAlign=50&fontAlignY=40&desc=Robotics%20|%20Reinforcement%20Learning%20|%20Autonomous%20Systems&descAlignY=60"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=CSE+Student+@+MIT+Manipal;Research+Intern+@+Plaksha;Robotics+%7C+RL+%7C+AI;Building+Intelligent+Systems"/>
-</p>
-
 🎓 CSE Student @ MIT Manipal  
 🤖 Interested in Reinforcement Learning, Robotics, Autonomous Systems, and AI  
 🔬 Research Intern @ Plaksha University  
