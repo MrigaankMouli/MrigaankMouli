@@ -1,9 +1,5 @@
 # Hi there 👋 I'm Mrigaank Mouli
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mrigaank%20Mouli&fontAlign=50&fontAlignY=40&desc=Robotics%20|%20Reinforcement%20Learning%20|%20Autonomous%20Systems&descAlignY=60"/>
-</p>
-
 🎓 CSE Student @ MIT Manipal  
 🤖 Interested in Reinforcement Learning, Robotics, Autonomous Systems, and AI  
 🔬 Research Intern @ Plaksha University  
