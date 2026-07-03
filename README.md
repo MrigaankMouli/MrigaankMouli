@@ -18,9 +18,9 @@
 
 ## 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/MrigaankMouli)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURLINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mrigaank-mouli-676120287)
 
 ---
 
@@ -52,11 +52,11 @@ Contributed autonomous navigation algorithms for ISDC 2025 winning system
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=MrigaankMouli&show_icons=true&theme=github_dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=github-dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrigaankMouli&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrigaankMouli&layout=compact&theme=github_dark)
 
 ---
 
