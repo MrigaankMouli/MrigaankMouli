@@ -12,7 +12,8 @@
 - Working on GPU-accelerated quadruped locomotion using PPO in NVIDIA Isaac Lab
 - Building reinforcement learning systems and autonomous intelligence pipelines
 - Interested in sim-to-real transfer and robot learning
-- Building systems that bridge software and real-world autonomy
+- Building End-to-End UAV Planners for Aerial Surveillance
+- Developing Vision-Based Mapping and Motion Planners for Autonomous Ground Vehicles
 
 ---
 
