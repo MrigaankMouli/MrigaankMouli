@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Mrigaank Mouli
 
 🎓 CSE Student @ MIT Manipal  
-🤖 Interested in Reinforcement Learning, Robotics, Autonomous Systems, and AI  
+🤖 Interested in Deep Learning, Reinforcement Learning, Robotics, UAVs, Ground Vehicles, and Autonomous Systems
 🔬 Research Intern @ Plaksha University  
 🚀 Head of R&D @ Project MANAS  
 
