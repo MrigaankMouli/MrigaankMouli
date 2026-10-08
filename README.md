@@ -3,7 +3,7 @@
 - CSE Student @ MIT Manipal  
 - Interested in Deep Learning, Reinforcement Learning, Robotics, UAVs, Ground Vehicles, and Autonomous Systems
 - Research Intern @ Plaksha University  
-- Head of R&D @ Project MANAS  
+- Head of R&D @ Project MANAS for the year 2025-26
 
 ---
 
